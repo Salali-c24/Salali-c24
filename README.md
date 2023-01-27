@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and Python.
 - 🌱 I’m currently learning CSS, Javascript, and React.
 - 💞️ I'm in love with a good stromboli.
-- 📫 How to reach me best would be the link on this page.
+- 📫 I'm contactable via the link on this page.
 
 
 <!---
