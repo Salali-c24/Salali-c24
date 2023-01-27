@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Salali-c24
+- 👋 Hi, I’m @Salali-c24!
 - 👀 I’m interested in web development and Python.
-- 🌱 I’m currently learning CSS, Javascript, and React.
-- 💞️ I'm in love with a good stromboli.
+- 🌱 I’m currently learning HTML 5, CSS, and Javascript.
+- 💞️ I'm in love with good a stromboli, a fast motorcycle, and a cloud-chasing vape.
 - 📫 I'm contactable via the link on this page.
 
 
