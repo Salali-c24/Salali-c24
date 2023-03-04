@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Salali-c24!
+- 👋 Hi, I’m @thecowsays: moo!
 - 👀 I’m interested in web development and Python.
 - 🌱 I’m currently learning HTML 5, CSS, and Javascript.
 - 💞️ I'm in love with good a stromboli, a fast motorcycle, and a cloud-chasing vape.
