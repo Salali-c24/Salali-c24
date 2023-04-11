@@ -1,7 +1,7 @@
 // CHARACTER NAMES WITH BUFFS
-const charName = ["Player1", "Player2", "Player3", "Player4", "Player5"];
+const charName = ["Player1", "Player2", "Player3"];
 // PLAYER WHO OWNS THE CHARACTER(S)
-const charOwner = ["username1", "username2", "username3", "username4", "username5"];
+const charOwner = ["username1", "username2", "username3"];
 
 // DS CONSISTS OF TWO VALUES, EITHER WILL MAKE TRUE,
 // BUT MUST KNOW WHICH VALUE IS WHICH IN A 'BREAKDOWN'
